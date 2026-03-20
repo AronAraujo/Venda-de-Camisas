@@ -1,11 +1,18 @@
-O sistema da Loja de Roupas deverá ser desenvolvido para automatizar as
-operações cotidianas de uma loja de vestuário, permitindo o cadastro de clientes,
-camisas e registros de vendas. Com funcionalidades como adicionar, remover,
-listar e realizar vendas, o sistema deve simplificar tarefas administrativas e
-proporcionar uma experiência de compra eficiente para os clientes.
-A classe Cliente possui atributos como CPF, Nome e Telefone, enquanto a classe
-Camisa inclui atributos como Código, Tamanho, Cor e Preço. Além disso, a classe
-Venda registra informações como ID, Camisa vendida, Cliente comprador e Valor
-da venda. Com esses atributos bem definidos, o sistema permite uma gestão
-completa do estoque, clientes e vendas da loja, garantindo eficiência e
-organização em todas as operações.
+## Getting Started
+
+Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+
+## Folder Structure
+
+The workspace contains two folders by default, where:
+
+- `src`: the folder to maintain sources
+- `lib`: the folder to maintain dependencies
+
+Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+
+> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+
+## Dependency Management
+
+The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
